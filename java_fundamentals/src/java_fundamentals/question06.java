@@ -1,6 +1,6 @@
 package java_fundamentals;
 import java.util.*;
-public class question6 {
+public class question06 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

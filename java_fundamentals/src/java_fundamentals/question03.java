@@ -1,13 +1,14 @@
 package java_fundamentals;
 import java.util.*;
-public class question2 {
+public class question03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     Scanner sc=new Scanner(System.in);
-    String a=sc.nextLine();
-    String s="Welcome";
-    System.out.println(s+" "+a);
+    int a=sc.nextInt();
+    int b=sc.nextInt();
+    int c=a+b;
+    System.out.println("The sum of "+a+" and "+b+" is "+c);
 	}
 
 }

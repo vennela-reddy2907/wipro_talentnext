@@ -1,7 +1,7 @@
 package java_fundamentals;
 import java.util.*;
 import java.util.Scanner;
-public class question5 {
+public class question05 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

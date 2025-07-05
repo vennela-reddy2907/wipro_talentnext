@@ -5,14 +5,14 @@ public class question15 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
  Scanner sc=new Scanner(System.in);
- int count=0;
+// int count=0;
  for(int i=10;i<=99;i++) {
 	 if(isPrime(i)) {
 		 System.out.println(i);
-		 count++;
+//		 count++;
 	 }
  }
- System.out.println(count);
+// System.out.println(count);
 	}
   public static boolean isPrime(int n) {
 	  if(n<2) {
