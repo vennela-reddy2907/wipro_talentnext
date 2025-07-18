@@ -18,7 +18,7 @@ public class Question19 {
       }
 
       StringJoiner ss1=s1.merge(s2);
-      StringJoiner ss2=s2.merge(s2);
+      StringJoiner ss2=s2.merge(s1);
       
       System.out.println(ss1);
       System.out.println(ss2);

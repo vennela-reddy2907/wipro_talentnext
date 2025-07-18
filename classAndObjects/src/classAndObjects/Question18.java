@@ -15,7 +15,7 @@ StringJoiner sj=new StringJoiner(",","{","}");
     	  li.add(sc.next());
     	  sj.add(li.get(i));
       }
-      System.out.print(s);
+      System.out.print(sj);
       
 	}
 
